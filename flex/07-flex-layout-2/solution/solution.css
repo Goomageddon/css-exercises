@@ -29,7 +29,7 @@ body {
 }
 
 /* SOLUTION */
-
+/* 
 body {
   display: flex;
   flex-direction: column;
@@ -85,4 +85,4 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-}
+} */
